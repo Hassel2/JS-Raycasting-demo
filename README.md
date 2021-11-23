@@ -1,0 +1,5 @@
+This is a little program that draws a sphere among the dark.
+![Sphere.jpg](sphere.png)
+
+Soon I want to use this to make a wallpaper creator program(web app or desktop utility) which helps you to make win11-like wallpapers.
+
